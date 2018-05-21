@@ -1,0 +1,9 @@
+F:\WCF\WCF1\Service\bin\Debug\Service.dll
+F:\WCF\WCF1\Service\bin\Debug\Service.pdb
+F:\WCF\WCF1\Service\bin\Debug\Contracts.dll
+F:\WCF\WCF1\Service\bin\Debug\Contracts.pdb
+F:\WCF\WCF1\Service\obj\Debug\Services.csprojResolveAssemblyReference.cache
+F:\WCF\WCF1\Service\obj\Debug\Services.csproj.CoreCompileInputs.cache
+F:\WCF\WCF1\Service\obj\Debug\Services.csproj.CopyComplete
+F:\WCF\WCF1\Service\obj\Debug\Service.dll
+F:\WCF\WCF1\Service\obj\Debug\Service.pdb

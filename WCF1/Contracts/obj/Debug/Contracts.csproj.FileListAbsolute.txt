@@ -1,0 +1,6 @@
+F:\WCF\WCF1\Contracts\bin\Debug\Contracts.dll
+F:\WCF\WCF1\Contracts\bin\Debug\Contracts.pdb
+F:\WCF\WCF1\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+F:\WCF\WCF1\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+F:\WCF\WCF1\Contracts\obj\Debug\Contracts.dll
+F:\WCF\WCF1\Contracts\obj\Debug\Contracts.pdb

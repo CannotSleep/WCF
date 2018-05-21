@@ -1,0 +1,12 @@
+F:\WCF\WCF1\Hosting\bin\Debug\Hosting.exe.config
+F:\WCF\WCF1\Hosting\bin\Debug\Hosting.exe
+F:\WCF\WCF1\Hosting\bin\Debug\Hosting.pdb
+F:\WCF\WCF1\Hosting\bin\Debug\Contracts.dll
+F:\WCF\WCF1\Hosting\bin\Debug\Service.dll
+F:\WCF\WCF1\Hosting\bin\Debug\Contracts.pdb
+F:\WCF\WCF1\Hosting\bin\Debug\Service.pdb
+F:\WCF\WCF1\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+F:\WCF\WCF1\Hosting\obj\Debug\Hosting.csproj.CoreCompileInputs.cache
+F:\WCF\WCF1\Hosting\obj\Debug\Hosting.csproj.CopyComplete
+F:\WCF\WCF1\Hosting\obj\Debug\Hosting.exe
+F:\WCF\WCF1\Hosting\obj\Debug\Hosting.pdb

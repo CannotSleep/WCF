@@ -1,0 +1,10 @@
+bin\Debug\Artech.WCFService.Hosting.exe
+bin\Debug\Artech.WCFService.Hosting.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Artech.WCFService.Hosting.exe
+obj\Debug\Artech.WCFService.Hosting.pdb
+bin\Debug\Artech.WCFService.Hosting.exe.config
+bin\Debug\Artech.WCFService.Contract.dll
+bin\Debug\Artech.WCFService.Service.dll
+bin\Debug\Artech.WCFService.Contract.pdb
+bin\Debug\Artech.WCFService.Service.pdb

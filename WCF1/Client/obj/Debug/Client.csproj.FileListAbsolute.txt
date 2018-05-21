@@ -1,0 +1,10 @@
+F:\WCF\WCF1\Client\bin\Debug\Client.exe.config
+F:\WCF\WCF1\Client\bin\Debug\Client.exe
+F:\WCF\WCF1\Client\bin\Debug\Client.pdb
+F:\WCF\WCF1\Client\bin\Debug\Contracts.dll
+F:\WCF\WCF1\Client\bin\Debug\Contracts.pdb
+F:\WCF\WCF1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\WCF\WCF1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\WCF\WCF1\Client\obj\Debug\Client.csproj.CopyComplete
+F:\WCF\WCF1\Client\obj\Debug\Client.exe
+F:\WCF\WCF1\Client\obj\Debug\Client.pdb

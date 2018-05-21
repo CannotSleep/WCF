@@ -1,0 +1,7 @@
+bin\Debug\Artech.WCFService.Testing.exe
+bin\Debug\Artech.WCFService.Testing.pdb
+bin\Debug\Artech.WCFService.Contract.dll
+bin\Debug\Artech.WCFService.Contract.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Artech.WCFService.Testing.exe
+obj\Debug\Artech.WCFService.Testing.pdb
